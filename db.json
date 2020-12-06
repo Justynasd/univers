@@ -10,7 +10,7 @@
           "location": "Your local store",
           "date": "2021-01-15",
           "time": "10:00",
-          "organizer": "Mr. Orginizer",
+          "organizer": "Mr. Orginizer"
         },
         {
           "id": 2123,
@@ -22,7 +22,7 @@
           "location": "Your local store",
           "date": "2021-02-15",
           "time": "10:00",
-          "organizer": "Mr. Orginizer",
+          "organizer": "Mr. Orginizer"
         },
         {
           "id": 2173,
@@ -34,7 +34,7 @@
           "location": "Your local store",
           "date": "2021-01-25",
           "time": "10:00",
-          "organizer": "Mr. Orginizer",
+          "organizer": "Mr. Orginizer"
         },
         {
           "id": 5173,
@@ -46,7 +46,7 @@
           "location": "Your local store",
           "date": "2021-02-12",
           "time": "10:00",
-          "organizer": "Mr. Orginizer",
+          "organizer": "Mr. Orginizer"
         }
       ]
   }
