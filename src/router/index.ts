@@ -6,7 +6,8 @@ const routes: Array<RouteRecordRaw> = [
   {
     path: "/",
     name: "EventList",
-    component: EventList
+    component: EventList,
+    props: route => ({ page: (route.query.page) || 1 })
   },
   {
     path: "/about",

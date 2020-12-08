@@ -8,10 +8,11 @@
 <script lang="ts">
 import { defineComponent } from "vue";
 import EventCard from "@/components/EventCard.vue";
-import EventService from "@/server/EventService.ts";
+import EventService from "@/server/EventService";
 
 export default defineComponent({
   name: "EventList",
+  props: ["page"],
   components: {
     EventCard,
   },
@@ -21,7 +22,7 @@ export default defineComponent({
     };
   },
   created() {
-    EventService.getEvents()
+    EventService.getEvents('2', this.page)
       .then((response) => {
         this.events = response.data;
       })

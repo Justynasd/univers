@@ -43,6 +43,50 @@
       "date": "2021-02-12",
       "time": "10:00",
       "organizer": "Mr. Orginizer"
+    },
+    {
+      "id": 25173,
+      "category": "SW: x-wing",
+      "subcategory": "extended",
+      "title": "Store champinship",
+      "description": "Store championship event, entertaining battles and great prizes... come and check by yourself!!!",
+      "location": "Your local store",
+      "date": "2021-03-03",
+      "time": "10:00",
+      "organizer": "Mr. Orginizer"
+    },
+    {
+      "id": 9173,
+      "category": "SW: Legion",
+      "subcategory": "Operation: Shadow",
+      "title": "Store champinship",
+      "description": "Store championship event, entertaining battles and great prizes... come and check by yourself!!!",
+      "location": "Your local store",
+      "date": "2021-04-20",
+      "time": "10:00",
+      "organizer": "Mr. Orginizer"
+    },
+    {
+      "id": 8173,
+      "category": "Warhammer 40k",
+      "subcategory": "eternal war",
+      "title": "Store champinship",
+      "description": "Store championship event, entertaining battles and great prizes... come and check by yourself!!!",
+      "location": "Your local store",
+      "date": "2021-01-17",
+      "time": "10:00",
+      "organizer": "Mr. Orginizer"
+    },
+    {
+      "id": 6173,
+      "category": "SW: x-wing",
+      "subcategory": "hyperspace",
+      "title": "Store champinship",
+      "description": "Store championship event, entertaining battles and great prizes... come and check by yourself!!!",
+      "location": "Your local store",
+      "date": "2021-03-07",
+      "time": "10:00",
+      "organizer": "Mr. Orginizer"
     }
   ]
 }
